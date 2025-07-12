@@ -1,0 +1,16 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="32" cy="32" r="32" fill="#E32636"/>
+
+  <!-- Brain Shape -->
+  <path d="M20 32c0-6 4-12 12-12s12 6 12 12-4 12-12 12-12-6-12-12z" fill="#FF5C70"/>
+  <circle cx="27" cy="32" r="2.5" fill="white"/>
+  <circle cx="37" cy="32" r="2.5" fill="white"/>
+  <path d="M27 32 C30 36, 34 36, 37 32" stroke="white" stroke-width="1.5" fill="none"/>
+
+  <!-- Plane -->
+  <g transform="translate(24,16) scale(0.5)">
+    <path d="M0 0 L18 4 L20 0 L18 -4 L0 0" fill="#FFFFFF"/>
+    <path d="M18 0 L36 0 L34 2 L34 -2 L36 0" fill="#FFFFFF"/>
+  </g>
+</svg>

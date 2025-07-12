@@ -1,0 +1,23 @@
+<svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg" fill="none" preserveAspectRatio="xMidYMid meet">
+  <!-- AI Brain Icon -->
+  <g transform="translate(40,60)">
+    <path d="M60 80c-20 0-40-15-40-40s20-40 40-40c14 0 28 14 28 28s-14 28-28 28z" fill="#E32636"/>
+    <path d="M60 80c20 0 40-15 40-40s-20-40-40-40c-14 0-28 14-28 28s14 28 28 28z" fill="#FF5C70"/>
+    <circle cx="48" cy="40" r="6" fill="white"/>
+    <circle cx="72" cy="40" r="6" fill="white"/>
+    <path d="M48 40 C54 52, 66 52, 72 40" stroke="white" stroke-width="2" fill="none"/>
+  </g>
+
+  <!-- Plane Icon -->
+  <g transform="translate(160,85)">
+    <path d="M0 0 L50 12 L55 0 L50 -12 L0 0" fill="#E32636"/>
+    <path d="M50 0 L100 0 L95 6 L95 -6 L100 0" fill="#E32636"/>
+    <circle cx="8" cy="0" r="4" fill="#fff"/>
+  </g>
+
+  <!-- Text -->
+  <text x="280" y="125" font-family="Segoe UI, sans-serif" font-size="64" font-weight="700" fill="#E32636">
+    VoyageMind
+  </text>
+
+</svg>

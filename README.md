@@ -2,6 +2,10 @@
 
 VoyageMind is a modern web app that generates personalized travel itineraries using Google Gemini AI and Mapbox. It helps users plan trips with hotel recommendations, daily itineraries, and interactive maps.
 
+## Live Demo  
+[VoyageMind](https://voyage-mind.vercel.app/)
+
+
 ## Features
 - **AI-powered trip planning**: Get custom itineraries for any destination, number of days, budget, and travel group.
 - **Hotel recommendations**: See top hotels with maps, prices, and ratings.
